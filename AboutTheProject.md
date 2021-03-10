@@ -1,3 +1,4 @@
+![Queer Social Club Presentation Slide] (Images/CRCP Capstone Research.jpg)
 # QueerSocialClub
 
 ## Project Outline
