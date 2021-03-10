@@ -1,6 +1,3 @@
-![QSC Header]
-(https://user-images.githubusercontent.com/48527555/110705498-19b41880-81bc-11eb-8a6e-a721da362da7.jpg)
-
 # QueerSocialClub
 
 ## Project Outline
