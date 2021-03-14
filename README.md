@@ -7,3 +7,6 @@ The client is Campus Pride, a non-profit creating safe spaces for LGBTQ college 
 
 ## Artist Statement
 Wren Lee is a storyteller and activist that works with film and design to create socially relevant work. Wren is currently working on The Queer Social Club, a community-building website for LGBTQ college students.
+Visit Wren's portfolio: http://wrenlee.design/
+
+Read the project proposal for more information
