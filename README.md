@@ -9,4 +9,8 @@ The client is Campus Pride, a non-profit creating safe spaces for LGBTQ college 
 Wren Lee is a storyteller and activist that works with film and design to create socially relevant work. Wren is currently working on The Queer Social Club, a community-building website for LGBTQ college students.
 Visit Wren's portfolio: http://wrenlee.design/
 
-Read the project proposal for more information
+## Figma Wireframe
+View the Figma wireframe: https://www.figma.com/proto/LgZIu4IrUGQhc4HjL0T2cD/Queer-Social-Club-Wireframes?node-id=1%3A3&viewport=301%2C67%2C0.23759543895721436&scaling=scale-down
+The wireframe isn't fully fleshed out. View the QSC Wireframe Demo video for all of the possible actions.
+
+Read the project proposal for more details
