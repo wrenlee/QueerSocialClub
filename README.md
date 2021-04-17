@@ -15,7 +15,7 @@ Wren used Google Forms and Zoom to conduct qualitative research with LGBTQ stude
 
 During the design phase, Wren used pen and paper to sketch the look and function of the website and used Figma to create a low-fidelity wireframe.
 
-In the development phase, Wren used Webflow to create the look and main functionality of the website. They designed the website with 3 main breakpoints: laptop (1164 px wide), tablet (768 px wide), and mobile vertical (320 px wide). The forum is embedded HTML code from Website Toolbox. The events calendar is an embed code from Google Calendars. Wren used Zapier to connect the event submission Google Form to the Google Calendar.
+In the development phase, Wren used Webflow, HTML, and CSS to create the look and main functionality of the website. They designed the website with 3 main breakpoints: laptop (1164 px wide), tablet (768 px wide), and mobile vertical (320 px wide). The forum is embedded HTML code from Website Toolbox. The events calendar is an embed code from Google Calendars. Wren used Zapier to connect the event submission Google Form to the Google Calendar.
 They sourced the resources from SMU's Women and LGBT Center's website (https://www.smu.edu/studentaffairs/womenandlgbtcenter).
 They created the graphics in Canva.
 
