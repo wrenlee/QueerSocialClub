@@ -10,6 +10,9 @@ Wren is a storyteller and activist using the mediums of human-centered design, f
 In their free time, they explore how media and entertainment reflect culture and society, write feature films and novels, and study the history of various theme parks.
 Visit Wren's portfolio: http://wrenlee.design/
 
+## The Project
+Check out the Queer Social Club @ SMU here: https://queer-social-club.webflow.io/
+
 ## Specs
 Wren used Google Forms and Zoom to conduct qualitative research with LGBTQ students at a variety of college campuses. They also used Notion to conduct the competitive analysis.
 
